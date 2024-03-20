@@ -1,2 +1,4 @@
 # doctor-review-nlp
-This notebook is a sentiment analysis on various doctor reviews (In Indonesian) that mostly revolve around after appointing with the doctor, and also some about HIV consultations. The reviews only range from either a positive (1) review, or a negative (0) review. This algorithm can be used in a doctor recommendation system using sentiment analysis to analyze and give positive or negative reviews based on indoensian text.
+This notebook is a sentiment analysis on various doctor reviews (In Indonesian) that mostly revolve around after appointing with the doctor, and also some about HIV consultations. The reviews only range from either a positive (1) review, or a negative (0) review. This algorithm can be used in a doctor recommendation system using sentiment analysis to analyze and give positive or negative reviews based on indonesian text.
+
+This was also a launched project for backdrop builds V3!
